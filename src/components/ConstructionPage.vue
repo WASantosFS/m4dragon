@@ -50,13 +50,13 @@ export default {
     return {
       weatherReport: {
         clientIP: "",
-        currentTemp: "32",
-        windSpeed: "21",
-        windDegree: "42",
-        pressure: "23",
-        precip: "0.0",
-        humidityPer: "65.4",
-        uvNum: "0.0",
+        currentTemp: "",
+        windSpeed: "",
+        windDegree: "",
+        pressure: "",
+        precip: "",
+        humidityPer: "",
+        uvNum: "",
       },
     }
   },
